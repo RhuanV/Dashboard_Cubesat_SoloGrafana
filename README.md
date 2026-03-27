@@ -58,7 +58,7 @@ MeuProjeto/
 
 - **Python 3.8+:** [Download](https://python.org)
 - **Docker Desktop:** Necessário para rodar o banco de dados e o Grafana. [Download](https://docker.com)
-- **Drivers CP210x:** Para reconhecer o LoRa32/ESP32 na porta USB. 
+- **Drivers CP210x:** Para reconhecer o LoRa32/ESP32 na porta USB. [Download](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads)
 
 ## ⚙️ Instalação e Configuração
 
