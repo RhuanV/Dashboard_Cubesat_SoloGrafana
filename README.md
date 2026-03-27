@@ -58,13 +58,13 @@ MeuProjeto/
 
 - **Python 3.8+:** [Download](https://python.org)
 - **Docker Desktop:** Necessário para rodar o banco de dados e o Grafana. [Download](https://docker.com)
-- **Drivers CP210x:** Para reconhecer o LoRa32/ESP32 na porta USB.
+- **Drivers CP210x:** Para reconhecer o LoRa32/ESP32 na porta USB. 
 
 ## ⚙️ Instalação e Configuração
 
 ### Clone o Repositório:
 ```bash
-git clone https://github.com/seu-usuario/solografana.git
+git clone [https://github.com/seu-usuario/solografana.git](https://github.com/RhuanV/Dashboard_Cubesat_SoloGrafana.git)
 cd solografana
 ```
 
