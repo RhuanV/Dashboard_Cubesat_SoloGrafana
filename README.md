@@ -87,6 +87,7 @@ pip install -r requirements.txt
 ### Configure o InfluxDB:
 1. Abra o banco de dados em `http://localhost:8086/`
 2. Crie um login e configure o banco de dados localmente
+3. A organização deve ser "ITACUBE" e o bucket "telemetria"
 
 ### Configure o Grafana:
 1. Abra o Grafana em `http://localhost:3000/`.
